@@ -1,0 +1,7 @@
+# Byte addresses: expected MISS HIT MISS HIT MISS MISS with 64 B / 16 B.
+0
+4
+16
+0
+64
+0

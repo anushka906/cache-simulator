@@ -1,0 +1,5 @@
+# Four accesses in a single 16-byte block.
+0x00
+0x04
+0x08
+0x0C
