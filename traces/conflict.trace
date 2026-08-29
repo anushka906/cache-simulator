@@ -1,0 +1,9 @@
+# Two blocks repeatedly compete for line 0 of a 64-byte cache with 16-byte blocks.
+0
+64
+0
+64
+0
+64
+0
+64
